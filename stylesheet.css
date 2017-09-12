@@ -1,0 +1,42 @@
+body {
+	background-color: #c8c8c8;
+	color: #242325;
+}
+
+div {
+	border-radius: 5px;
+}
+
+#header {
+	width: 98.5%; 
+	height: 50px;
+	position: fixed;
+/*	margin-top: 5px;
+	margin-bottom: 10px; */
+	background-color: #2b7cce; 
+}
+
+.left {
+	float: left;
+	width: 10%;
+	background-color: #eda034;
+	height: 750px;
+	margin-top: 65px;
+	margin-bottom: 10px;
+}
+
+.right {
+	background-color: #dcbfbe;
+	margin-top: 65px;
+	margin-bottom: 10px;
+	width: 88%;
+	height: 750px;
+	float: right;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #2b7cce;
+	clear: both;
+}
