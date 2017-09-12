@@ -13,23 +13,23 @@ div {
 	position: fixed;
 /*	margin-top: 5px;
 	margin-bottom: 10px; */
-	background-color: #2b7cce; 
+	background-color: #b3b3b3; 
 }
 
 .left {
 	float: left;
-	width: 10%;
-	background-color: #eda034;
+	width: 5%;
+	background-color: #dc965a;
 	height: 750px;
 	margin-top: 65px;
 	margin-bottom: 10px;
 }
 
 .right {
-	background-color: #dcbfbe;
+	background-color: #bbb891;
 	margin-top: 65px;
 	margin-bottom: 10px;
-	width: 88%;
+	width: 93%;
 	height: 750px;
 	float: right;
 }
@@ -37,6 +37,6 @@ div {
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #2b7cce;
+	background-color: #b3b3b3;
 	clear: both;
 }
